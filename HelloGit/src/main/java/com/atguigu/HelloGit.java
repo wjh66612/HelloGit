@@ -7,5 +7,6 @@ package com.atguigu;
 public class HelloGit {
     public static void main(String[] args) {
         System.out.println("HelloGit.main");
+        System.out.println("创建分支");
     }
 }
